@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boopalanpichandi
 - 👀 I’m interested in Developing and Architect Design
-- 🌱 I’m currently working on Full Stack Developer AI/ML,DataScience,ReactJS
+- 🌱 I’m currently working on Full Stack Developer (DataScience-AI/ML, MERN-Devops)
 - 📫 How to reach me boopalanragul96@gmail.com
 
 <!---
