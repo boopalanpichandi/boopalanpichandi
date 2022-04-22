@@ -1,7 +1,7 @@
 Hi 👋 My name is Boopalan Pichandi
 ==================================
 
-Devops Engineer, Cloud Architect and Developer
+Devops Engineer and Cloud Architect 
 --------------------
 
 *   🌍  I'm based in Madurai, Tamil Nadu
